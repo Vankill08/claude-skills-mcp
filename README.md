@@ -65,3 +65,6 @@ There are a few known issues to be aware of:
 2. **Compatibility with Older Operating Systems:** Ensure your system is updated for the best performance.
 
 Thank you for choosing **claude-skills-mcp**! We hope it makes your search for Claude Agent Skills quick and easy.
+#### AI Agent Marketplace Index And Agent Router | [API Doc](https://www.deepnlp.org/doc/ai_agent_marketplace)
+    [![AI Agent Marketplace and Router Badge](https://www.deepnlp.org/api/ai_agent_marketplace/svg?name=Vankill08/claude-skills-mcp&badge_type=review)](https://www.deepnlp.org/store/ai-agent/ai-agent/pub-vankill08/claude-skills-mcp)
+    
